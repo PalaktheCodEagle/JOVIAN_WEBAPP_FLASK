@@ -1,2 +1,2 @@
-# JOVIAN_WEBAPP_FLASK
-Jovian website for careers details
+# TECHNOVA.AI_WEBAPP_FLASK
+technova.ai website for careers details
